@@ -11,11 +11,11 @@ const Image = () => {
         .then(data =>{
             data = data.results[0].picture.large
             setImage(data)
-            console.log(data)
         })
         
     }, [])
-
+    
+    console.log(setImage)
 
 
 
