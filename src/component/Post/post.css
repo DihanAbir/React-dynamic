@@ -1,0 +1,10 @@
+.link{
+    color: #ffffff!important;
+    text-decoration: none;
+}
+.post{
+    background-color: rgb(1, 105, 105);
+    margin: 40px;
+    padding:50px;
+    border-radius: 10px;
+}

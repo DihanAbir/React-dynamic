@@ -1,0 +1,27 @@
+
+.comment{
+    background-color: salmon;
+    margin: 40px;
+    padding:50px;
+    border-radius: 10px;
+    box-shadow: 4px -4px 10px 4px white;
+}
+.cardMedia {
+    paddingTop: '81.25%';
+    borderRadius: '50%';
+    margin: '28px';
+}
+.commentsection{
+    padding: 10px 40px;
+    margin:25px;
+    border-radius: 10px;
+    box-shadow: 4px -4px 4px lightsalmon;
+}
+.commentsection strong{
+   color: #666;
+   transition: 0.4s ease-in-out ;
+   cursor: pointer;
+}
+.commentsection strong:hover{
+   color: #222
+}
